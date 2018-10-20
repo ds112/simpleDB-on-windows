@@ -8,11 +8,11 @@ Installation simpleDB on windows
 
 ## Structure
 
-   *1. simpledb - The server side code for the database.
-   
-   *2. studentclient - Example client-side code for the database
-   
-   *3. javadoc - API for the database
+       *1. simpledb - The server side code for the database.
+
+       *2. studentclient - Example client-side code for the database
+
+       *3. javadoc - API for the database
 
 ## Windows vs Mac vs Linux
 
