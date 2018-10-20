@@ -32,7 +32,7 @@ Most instructions are the same between all three platforms, except for a few com
 
 Remember well `download` and `Installation` Java `JDK` and `JRE`
 
-<h2>`Download:` https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html</h2>
+  <h2> `Download:`  https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html</h2>
 
 <img src="image/Untitled.png" alt="">
 <h2>Step 2 - Setup JAVA environment</h2>
@@ -46,11 +46,15 @@ Remember well `download` and `Installation` Java `JDK` and `JRE`
 <img src="image/Untitled5.png" alt="">
 <img src="image/Untitled6.png" alt="">
 <img src="image/Untitled7.png" alt="">
+
 ## TEST JAVA ON CMD
+
 <img src="image/Untitled8.png" alt="">
 <h3>If the same as the above picture was successful</h3>
 <h2>Step 3 - Everything is ready</h2>
-<h3>Go to `C:\` and create folder name `javalib`</h3>
+
+  <h3>Go to `C:\` and create folder name `javalib`</h3>
+
 <img src="image/Untitled9.png" alt="">
 ## Compile the Server code 
 `Note the path on the image`
