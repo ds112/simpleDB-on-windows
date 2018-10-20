@@ -25,12 +25,12 @@ Most instructions are the same between all three platforms, except for a few com
 ## Installation on Windows 7+
 <h2>Step 1 - Download and Installation</h2>
 <h2>Installation Java SE</h2>
-<h2>Remember well `download` and `Installation` Java `JDK` and `JRE`</h2>
+Remember well `download` and `Installation` Java `JDK` and `JRE`
 <h2>`Download:` https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html</h2>
 <img src="image/Untitled.png" alt="">
 <h2>Step 2 - Setup JAVA environment</h2>
-<h2>You can see here: https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html</h2>
-<h2>Setup all JDK and JRE or see here</h2>
+<h2>You can see here *recommended: https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html</h2>
+<h2>Setup all JDK and JRE or see here (not recommended)</h2>
 <img src="image/Untitled1.png" alt="">
 <img src="image/Untitled2.png" alt="">
 <img src="image/Untitled3.png" alt="">
