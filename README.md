@@ -40,17 +40,17 @@ Remember well `download` and `Installation` Java `JDK` and `JRE`
 <h2>You can see here *recommended: https://confluence.atlassian.com/doc/setting-the-java_home-variable-in-windows-8895.html</h2>
 <h2>Setup all JDK and JRE or see here (not recommended)</h2>
 <img src="image/Untitled1.png" alt="">
-      `Step 2.1`
+      *`Step 2.1`
 <img src="image/Untitled2.png" alt="">
-      `Step 2.2`
+      *`Step 2.2`
 <img src="image/Untitled3.png" alt="">
-      `Step 2.3`
+      *`Step 2.3`
 <img src="image/Untitled4.png" alt="">
-      `Step 2.4`
+      *`Step 2.4`
 <img src="image/Untitled5.png" alt="">
-      `Step 2.5`
+      *`Step 2.5`
 <img src="image/Untitled6.png" alt="">
-      `Step 2.6`
+      *`Step 2.6`
 <img src="image/Untitled7.png" alt="">
 
 
@@ -63,8 +63,8 @@ Remember well `download` and `Installation` Java `JDK` and `JRE`
   <h3>Go to `C:\` and create folder name `javalib`</h3>
 
 <img src="image/Untitled9.png" alt="">
-## Compile the Server code 
-`Note the path on the image`
+
+## Compile the Server code `Note the path on the image`
 
         ```
         #all platforms
