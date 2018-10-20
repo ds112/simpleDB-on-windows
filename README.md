@@ -4,7 +4,7 @@ Installation simpleDB on windows
 <img src="image/AWS Logo.jpg">
 <img src="image/pict--amazon-simpledb-aws-database-vector-stencils-library.png" alt="">
 <h1>Dowload SimpleDB</h1>
-<h3> <a href="simple_db_2.zip">Link official *recommended</a> or <a href="SimpleDB_2.10.zip">Link backup path *not recommended</a></h3>
+<h3> <a href="simple_db_2.zip?raw=true">Link official *recommended</a> or <a href="SimpleDB_2.10.zip?raw=true">Link backup path *not recommended</a></h3>
 ## Structure
 
    *1. simpledb - The server side code for the database.
