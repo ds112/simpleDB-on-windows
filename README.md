@@ -5,10 +5,13 @@ Installation simpleDB on windows
 <img src="image/pict--amazon-simpledb-aws-database-vector-stencils-library.png" alt="">
 <h1>Dowload SimpleDB</h1>
 <h3> <a href="simple_db_2.zip?raw=true">Link official *recommended</a> or <a href="SimpleDB_2.10.zip?raw=true">Link backup path *not recommended</a></h3>
+
 ## Structure
 
    *1. simpledb - The server side code for the database.
+   
    *2. studentclient - Example client-side code for the database
+   
    *3. javadoc - API for the database
 
 ## Windows vs Mac vs Linux
